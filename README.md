@@ -1,45 +1,8 @@
-# Durumi Basic Docz 
+# Durumi 읽어보기
+
+## 2월
 
 ```
-https://www.docz.site/ 를 사용해 도큐먼트를 관리합니다.
-```
-
-## Using `create-docz-app`
-
-```sh
-npx create-docz-app docz-app-basic
-# or
-yarn create docz-app docz-app-basic
-```
-
-## Download manually
-
-```sh
-curl https://codeload.github.com/doczjs/docz/tar.gz/master | tar -xz --strip=2 docz-master/examples/basic
-mv basic docz-basic-example
-cd docz-basic-example
-```
-
-## Setup
-
-```sh
-yarn # npm i
-```
-
-## Run
-
-```sh
-yarn dev # npm run dev
-```
-
-## Build
-
-```sh
-yarn build # npm run build
-```
-
-## Serve built app
-
-```sh
-yarn serve # npm run serve
+AA 알콜아카이브 설계를 시작했습니다. 
+직접 알콜 수집도 열심히 하고 있어요.
 ```
